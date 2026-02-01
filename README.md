@@ -1,5 +1,4 @@
-# Fedora 43 Post Install Guide
-Things to do after installing Fedora 42 
+# Things to do after installing Fedora 43
 
 ## Update and Reboot
 * Go into the software center and click on update. Alternatively, you can do:
